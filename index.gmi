@@ -1,5 +1,4 @@
-# repeat...
+Welcome to repeat's site, now on Gemini!
 
-Hi there! Welcome to my little space on Gopher, hosted by none other than the fine people at => ../srht.site    Sourcehut!
-
-Not much else here right now.
+=> ./glogs/  /glogs/
+=> ./misc/  /misc/
